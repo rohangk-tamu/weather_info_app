@@ -26,4 +26,8 @@ There was an issue with OpenWeatherApi responses, so I chose this other free ope
 
   - Flows <p>
 
+  - JUnit <p>
+
+  - Mockito and MockK <p>
+
   
